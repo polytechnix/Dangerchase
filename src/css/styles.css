@@ -16,3 +16,11 @@ body {
 	overflow: hidden;
 	background: linear-gradient(180deg, #808080 50%, #303030 50%, #608060 100%);
 }
+
+.day_patrol {
+	background: linear-gradient(180deg, #808080 50%, #303030 50%, #608060 100%);
+}
+
+.night_patrol {
+	background: linear-gradient(180deg, #101010 50%, #303030 50%, #608060 100%);
+}
